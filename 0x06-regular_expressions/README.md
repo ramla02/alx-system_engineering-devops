@@ -1,5 +1,56 @@
 # 0x06. Regular expression
 
+<div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">Concepts</h3>
+    </div>
+    <div class="panel-body">
+      <p>
+        <em>For this project, we expect you to look at this concept:</em>
+      </p>
+
+<ul>
+          <li>
+ <a href="https://intranet.alxswe.com/concepts/29">Regular Expression</a>
+          </li>
+      </ul>
+    </div>
+  </div>
+
+      
+<h1 class="d-flex flex-column gap-2">
+  <span>Regular Expression</span>
+</h1>
+
+<div>
+  
+</div>
+
+<div class="gap formatted-content">
+    <p>A regular expression, commonly called a &ldquo;regexp&rdquo;, is a sequence of characters that define a search pattern. &nbsp;It&nbsp;is&nbsp;mainly for use in pattern matching with strings, or string matching (i.e. it operates&nbsp;like&nbsp;a&nbsp;&ldquo;find and replace&rdquo; command). While it is a very powerful tool, it is also very dangerous because of its complexity.</p>
+
+<p><img src="https://intranet.alxswe.com/images/contents/sysadmin/concepts/29/regex_now_2_problems.jpg" alt="" loading='lazy' style="" /></p>
+
+<p><strong><em><a href="/rltoken/bg6ER7JUhyuRtTu9-vpQuw" title="Some people, when confronted with a problem, think" target="_blank">Some people, when confronted with a problem, think</a></em>
+<em><a href="/rltoken/bg6ER7JUhyuRtTu9-vpQuw" title="“I know, I&#39;ll use regular expressions.” &nbsp; Now they have two problems." target="_blank">“I know, I&rsquo;ll use regular expressions.” &nbsp; Now they have two problems.</a></em></strong> (super classic joke in the industry)</p>
+
+<p>One thing you have to be careful with is that different languages use different regexp engines. That&nbsp;means&nbsp;that&nbsp;a regexp in Python, for&nbsp;example,&nbsp;will be interpreted differently&nbsp;in Javascript:</p>
+
+<p>Regular expressions are everywhere and software engineers, no&nbsp;matter their positions, will have to use them during their careers. System administrators and DevOps are the ones using them the most because&nbsp;they are very handy for log parsing.</p>
+
+<p>Read about regexp:</p>
+
+<ul>
+<li><a href="https://www.regular-expressions.info/" title="http://www.regular-expressions.info/" target="_blank">http://www.regular-expressions.info/</a></li>
+<li><p><a href="/rltoken/VOQCF4_WTOCyQ92h0dGPyA" title="https://www.w3schools.com/jsref/jsref_obj_regexp.asp" target="_blank">http://www.w3schools.com/jsref/jsref_obj_regexp.asp</a>
+Play with regexp (or compose them):</p></li>
+<li><p>Ruby: <a href="https://rubular.com/" title="http://rubular.com/" target="_blank">http://rubular.com/</a></p></li>
+<li><p>PHP/Javascript/Python: <a href="https://regex101.com/" title="https://regex101.com/" target="_blank">https://regex101.com/</a></p></li>
+</ul>
+
+</div>
+
+
 <div class="panel panel-default" id="project-description">
   <div class="panel-body">
     <h2>Background Context</h2>
